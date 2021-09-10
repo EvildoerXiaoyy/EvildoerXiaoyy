@@ -3,7 +3,7 @@
 
 - 🍻 an engineer at 🇨🇳 [CHINA] (https://www.tencent.com/)
 - ⚡ GO / Python / HTML / CSS / JS.
-- 🖋 Writer at [sspai] (https://github.com/TencentBlueKing/bk-log)
+- 🖋 Writer at [BKLOG](https://github.com/TencentBlueKing/bk-log)
 - ✍️ [Study](https://github.com/xiongqqjq/samuel_study)
 - 🏃 jogging
 - 🥋 Eating / Sleeping
